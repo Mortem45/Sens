@@ -1,0 +1,12 @@
+{
+  "name": "sens-agent",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Simple plataforma de IoT - Agent ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Monterrozo (Mortem45)",
+  "license": "MIT"
+}

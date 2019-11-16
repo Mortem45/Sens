@@ -8,5 +8,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Brandon Monterrozo (Mortem45)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "debug": "^4.1.1",
+    "defaults": "^1.0.3",
+    "mqtt": "^3.0.0",
+    "sens-utils": "file:../sens-utils",
+    "uuid": "^3.3.2"
+  }
 }
